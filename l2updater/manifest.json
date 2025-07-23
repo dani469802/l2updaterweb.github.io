@@ -1,0 +1,637 @@
+[
+  {
+    "name": "system_actionname-e.dat.zip",
+    "path": "system\\actionname-e.dat",
+    "hash": "03c61e0db1808339e7adcc602866e4b0c92181997a08a8ea780b033d963866d9"
+  },
+  {
+    "name": "system_ALAudio.dll.zip",
+    "path": "system\\ALAudio.dll",
+    "hash": "b6092b8d1df5d6511bced4b21cf32c8b5e3e34b92b1d6efedec9108762b4d6f9"
+  },
+  {
+    "name": "system_ALAudio.int.zip",
+    "path": "system\\ALAudio.int",
+    "hash": "6ab396916a7141f2628f83dc496451f51d92c56e261eda9ee63feeffdefa2651"
+  },
+  {
+    "name": "system_armorgrp.dat.zip",
+    "path": "system\\armorgrp.dat",
+    "hash": "8fed8da6c849847f0cf02bdd7063f97c5bd5d5b4443ae2a595bc2968d2b0033c"
+  },
+  {
+    "name": "system_bighead.int.zip",
+    "path": "system\\bighead.int",
+    "hash": "fbb323452d9657d68e100a00f3660cd2b4100c7c9a1ece9ce8799919ef122f62"
+  },
+  {
+    "name": "system_castlename-e.dat.zip",
+    "path": "system\\castlename-e.dat",
+    "hash": "61079e9d147e20637e20ccc25d44b036c93bda87ac96ae2f7530d2ef74e996e2"
+  },
+  {
+    "name": "system_chargrp.dat.zip",
+    "path": "system\\chargrp.dat",
+    "hash": "18cf3abfb57ae8cdf504f9ab84002809b68fc6f82991b138968185719d99bdf1"
+  },
+  {
+    "name": "system_classinfo-e.dat.zip",
+    "path": "system\\classinfo-e.dat",
+    "hash": "52b89e1236815ef1193ba1529585d53c933a913566de87f863dcbcef0e7d4b6f"
+  },
+  {
+    "name": "system_cloak.int.zip",
+    "path": "system\\cloak.int",
+    "hash": "aaf7dbeea57fb2099a3ce701096747a0afebd6cc2ad7ca40bce8a6d4a9d62d09"
+  },
+  {
+    "name": "system_commandname-e.dat.zip",
+    "path": "system\\commandname-e.dat",
+    "hash": "1233dc3cfff67e461614a7cfb929514cf057b8d5a2c78f104b0b6489bc454e0a"
+  },
+  {
+    "name": "system_Core.dll.zip",
+    "path": "system\\Core.dll",
+    "hash": "2afe3b516097504860a24b08b5790802dc6b2e1dc54b1860a3b318d816d569c2"
+  },
+  {
+    "name": "system_core.int.zip",
+    "path": "system\\core.int",
+    "hash": "f994e27078bb0ca9ea665e4743fb10350ab57f6eda4adb2600fe7e56a13409ec"
+  },
+  {
+    "name": "system_Core.u.zip",
+    "path": "system\\Core.u",
+    "hash": "01dafcccd01f02440323ea3a48d7d83d80b4dfd6e53dacfb820a4ac8a05fac3b"
+  },
+  {
+    "name": "system_creditfont.gly.zip",
+    "path": "system\\creditfont.gly",
+    "hash": "9753b1e53573fd7aa692cbe85ff0339a462d2283a26effcca15a5cc4714f4919"
+  },
+  {
+    "name": "system_creditgrp-e.dat.zip",
+    "path": "system\\creditgrp-e.dat",
+    "hash": "b5355aa56a48dc99be8173859a1f55f4872c483c46cc32b3f981a0f171a2e46b"
+  },
+  {
+    "name": "system_D3DDrv.dll.zip",
+    "path": "system\\D3DDrv.dll",
+    "hash": "d09039223404ce4b8e1c73d4f2a85671977a625235a7ba36e1058c8147242a28"
+  },
+  {
+    "name": "system_defopenal32.dll.zip",
+    "path": "system\\defopenal32.dll",
+    "hash": "e3c52c19af6abd8e5378f8dee94af737b889f7d52f043398b7dfdb48ce160b3c"
+  },
+  {
+    "name": "system_dsetup.dll.zip",
+    "path": "system\\dsetup.dll",
+    "hash": "8ba0c0af4f55bea164c2e34898bbefbc8f356abd4421874aedceb05af8c0aa77"
+  },
+  {
+    "name": "system_Editor.u.zip",
+    "path": "system\\Editor.u",
+    "hash": "64adfd0d5c80e950e6c9217a6c7cb67aaa9b1fccc994fd4c854f84a900aa8424"
+  },
+  {
+    "name": "system_encvag.dll.zip",
+    "path": "system\\encvag.dll",
+    "hash": "39ee525d79d056c8cf706282531d13a553faa78597dc0c92ca886549ac21ba25"
+  },
+  {
+    "name": "system_engine.dll.zip",
+    "path": "system\\engine.dll",
+    "hash": "16a23a4e40e922b0a3b51c091d2d56c32fc8d5d29f6090f695c8c33e0486e7a3"
+  },
+  {
+    "name": "system_Engine.int.zip",
+    "path": "system\\Engine.int",
+    "hash": "ea87b044d9eb093c462214f468a8b974d205ccd31a15f24972f077235c3ef789"
+  },
+  {
+    "name": "system_Engine.u.zip",
+    "path": "system\\Engine.u",
+    "hash": "cf48d185843beada687aab5d45b9eb5bef5af604d3ca555abefc2d30743d7a09"
+  },
+  {
+    "name": "system_entereventgrp.dat.zip",
+    "path": "system\\entereventgrp.dat",
+    "hash": "aa3d28fc84ff7d84e0073df24c248df2a113f2320dca5d21a3529530797b701c"
+  },
+  {
+    "name": "system_Env.int.zip",
+    "path": "system\\Env.int",
+    "hash": "da59a24541b3071613f36a454c1052ad58de00e2af3ef8d43fb6db50e1cd671b"
+  },
+  {
+    "name": "system_etcitemgrp.dat.zip",
+    "path": "system\\etcitemgrp.dat",
+    "hash": "e0138b8129f754053b2462a6be79a8e5a0727a5c30f77d5c5d5390f606164b3e"
+  },
+  {
+    "name": "system_EULA-e.dat.zip",
+    "path": "system\\EULA-e.dat",
+    "hash": "dc5ba2e4d759d6bc08337500a9184c3a618372e7b852f0564787cca4cfd88875"
+  },
+  {
+    "name": "system_Fire.dll.zip",
+    "path": "system\\Fire.dll",
+    "hash": "9f6d25a479d53fe6c8ea10a39ca4230f63fb0ab4c7bbcf05ade9703b22687f97"
+  },
+  {
+    "name": "system_Fire.u.zip",
+    "path": "system\\Fire.u",
+    "hash": "b4c18e55ea15cfc166c146ed4ff79175740274360cc292c9cb6ae53db3188e3f"
+  },
+  {
+    "name": "system_GameGuard.des.zip",
+    "path": "system\\GameGuard.des",
+    "hash": "9d6887ca0611386ae10b26d00038fe001c1322d03cab26f97b61ab6bbee9c938"
+  },
+  {
+    "name": "system_GamePlay.u.zip",
+    "path": "system\\GamePlay.u",
+    "hash": "4df728723f249d633e585c06f0a1fdac0fdd8e8dd2432fb21113dd8975600f2d"
+  },
+  {
+    "name": "system_gametip-e.dat.zip",
+    "path": "system\\gametip-e.dat",
+    "hash": "73e3660d33aaf7ae71cf8ab7318ea9bd32b1d7735031e56f65989fdae8674646"
+  },
+  {
+    "name": "system_hair.int.zip",
+    "path": "system\\hair.int",
+    "hash": "a50b600d49f5f0c91a525ea06241b7be59c22527d787299bbdfa4ddb26a440c9"
+  },
+  {
+    "name": "system_hairaccessarygrp.dat.zip",
+    "path": "system\\hairaccessarygrp.dat",
+    "hash": "27f6e9fbe63c2c484d8684e4b6d739363c3f89c2181327b047bc32dc92e32aec"
+  },
+  {
+    "name": "system_hairaccessorylocgrp.dat.zip",
+    "path": "system\\hairaccessorylocgrp.dat",
+    "hash": "083213483ab2374817b7dd257bbbe382a2587f27db979fbd6532a0c1de9cb9f2"
+  },
+  {
+    "name": "system_hairgrp.dat.zip",
+    "path": "system\\hairgrp.dat",
+    "hash": "c322f12395f620d7a8d8cbc4925d4fc8d4b119c4c533602ca6f4c1f41dd3481f"
+  },
+  {
+    "name": "system_helmetgrp.dat.zip",
+    "path": "system\\helmetgrp.dat",
+    "hash": "4192d73601f4270653b396dd0e95c6a34b6d3bb794147becacfa9b18175b4497"
+  },
+  {
+    "name": "system_hennagrp-e.dat.zip",
+    "path": "system\\hennagrp-e.dat",
+    "hash": "47f510711bc083659df29db00c33e22f5a1dc018b803d5cbb677a521958679f1"
+  },
+  {
+    "name": "system_huntingzone-e.dat.zip",
+    "path": "system\\huntingzone-e.dat",
+    "hash": "fd53df1d6376e20ef9112a0549de079a91517049d924182f6c79d07f830319e9"
+  },
+  {
+    "name": "system_ifc23.dll.zip",
+    "path": "system\\ifc23.dll",
+    "hash": "e397579fad55e08963dece8aed318f2127146c87fcf9073f0de84d8881d1bd72"
+  },
+  {
+    "name": "system_Interface.u.zip",
+    "path": "system\\Interface.u",
+    "hash": "496298b4df689f06b4b300d0d27133658136ea16296e2f53b46551f08636bbd6"
+  },
+  {
+    "name": "system_Interface.xdat.zip",
+    "path": "system\\Interface.xdat",
+    "hash": "0cb05c98c17a381bf8d8dc3099257992286742d7c184329226d5185a3239022b"
+  },
+  {
+    "name": "system_IpDrv.dll.zip",
+    "path": "system\\IpDrv.dll",
+    "hash": "45691c35357ddf62713cfa78362f389c0e207f8f56ad5aa037566c6bf8fdf920"
+  },
+  {
+    "name": "system_ipdrv.int.zip",
+    "path": "system\\ipdrv.int",
+    "hash": "3b8f1767fe32e8c59dcf56051b4520dd492c9caa75f4c031a4bd1ffbe822affc"
+  },
+  {
+    "name": "system_IpDrv.u.zip",
+    "path": "system\\IpDrv.u",
+    "hash": "20e58809764374d07b021c133dc49951496fe78dc944f254152ff34aa6f9ad9d"
+  },
+  {
+    "name": "system_ItemName-e.dat.zip",
+    "path": "system\\ItemName-e.dat",
+    "hash": "a978ed9a0f6e212e7da3fa327b5ad7c00f17661f1f6fe0cd00d349ac642cd514"
+  },
+  {
+    "name": "system_L2.exe.zip",
+    "path": "system\\L2.exe",
+    "hash": "109adda062d807fb52230387a9d21f39513e4c736495a6a06d96a748611cb7f5"
+  },
+  {
+    "name": "system_l2.ini.zip",
+    "path": "system\\l2.ini",
+    "hash": "d792d66b11b8f4c829309e6949516ed790f7c6fb4532b297ad0f97715192c24b"
+  },
+  {
+    "name": "system_l2.int.zip",
+    "path": "system\\l2.int",
+    "hash": "fd07f98abd5c3a0219c4c172375af390e8ee51897727a3145971702d29063532"
+  },
+  {
+    "name": "system_L2CompiledShader.bin.zip",
+    "path": "system\\L2CompiledShader.bin",
+    "hash": "4bd8eb0b71275a918d9d162be5f24ced40321e33bee62cb44f0e020174e82871"
+  },
+  {
+    "name": "system_l2forecf.ffe.zip",
+    "path": "system\\l2forecf.ffe",
+    "hash": "074ac99dd9794dec97f4d8486693b7cf1d71594c4ddfacc5a16f3759a254d0dd"
+  },
+  {
+    "name": "system_largefont-e.gly.zip",
+    "path": "system\\largefont-e.gly",
+    "hash": "3142baccb985448ace4d08bddb0197ef83e22e186eaba0a54fd1d503d4485172"
+  },
+  {
+    "name": "system_largefont.gly.zip",
+    "path": "system\\largefont.gly",
+    "hash": "bdfa694a38dfaa51b57530b12c351fabcec643d6869d6ad76161d5d8241d86e9"
+  },
+  {
+    "name": "system_Lineage2us.ini.zip",
+    "path": "system\\Lineage2us.ini",
+    "hash": "ddf119208b2b233084bf7b93ef1c884343a6496a0de06ad96c925d748db5ac4a"
+  },
+  {
+    "name": "system_LineageCreature.dll.zip",
+    "path": "system\\LineageCreature.dll",
+    "hash": "4f91fef24fdbfb17d1a4a058b94e5f369697e7ee3844fbfd2f6f212488dde90d"
+  },
+  {
+    "name": "system_LineageCreature.u.zip",
+    "path": "system\\LineageCreature.u",
+    "hash": "03f259f2d0c60a587e445949895b1ca69057a826b7108590fcbc153a7d1c2a4e"
+  },
+  {
+    "name": "system_LineageDeco.u.zip",
+    "path": "system\\LineageDeco.u",
+    "hash": "e0d445e121b87294d5fc784946686b3895f13ee9bcf120be2ae74e56a2d0d423"
+  },
+  {
+    "name": "system_lineageeffect.u.zip",
+    "path": "system\\lineageeffect.u",
+    "hash": "256fc0eb1bdcce6b7d3d0b56d48d5834fece8e6535e3ec248c8a7fc36f60775d"
+  },
+  {
+    "name": "system_LineageMonster.int.zip",
+    "path": "system\\LineageMonster.int",
+    "hash": "113a1087b7c1da6c450e2e7eace91ede6e3ed875fbcd5d0fd3867ac1a4b75c59"
+  },
+  {
+    "name": "system_lineagemonster.u.zip",
+    "path": "system\\lineagemonster.u",
+    "hash": "a991033715883f3663ecf5a8122b76455a3bb5aac43f265a43577f780e98e25a"
+  },
+  {
+    "name": "system_lineagemonster2.int.zip",
+    "path": "system\\lineagemonster2.int",
+    "hash": "6315e051d142e8a6fefd300fd4b8a18ca8900e1db613a1adba2a6d21691687bb"
+  },
+  {
+    "name": "system_LineageMonster2.u.zip",
+    "path": "system\\LineageMonster2.u",
+    "hash": "b1f5d0f2c257c809d6971424fc614fed5df9bd8063e504b1b6fed990486687e4"
+  },
+  {
+    "name": "system_LineageMonster3.int.zip",
+    "path": "system\\LineageMonster3.int",
+    "hash": "cd6914ec588b175f33124632d96666c461159e1258c407a39d24a1f67116d95c"
+  },
+  {
+    "name": "system_LineageMonster3.u.zip",
+    "path": "system\\LineageMonster3.u",
+    "hash": "44b00f02ff4d1f460a942ee7197af19c76ea78a4f353b91d7d670d279e8fb06d"
+  },
+  {
+    "name": "system_LineageNpc.int.zip",
+    "path": "system\\LineageNpc.int",
+    "hash": "75c80c1bebc4162433a50b032cc448cb5e39ec700eedaf62b9760101f4e4875c"
+  },
+  {
+    "name": "system_LineageNpc.u.zip",
+    "path": "system\\LineageNpc.u",
+    "hash": "443b26aea7cae9641babbff55873b44c7fb4d2cc508b9c1bff35b2f7d8026669"
+  },
+  {
+    "name": "system_lineagenpc2.int.zip",
+    "path": "system\\lineagenpc2.int",
+    "hash": "04c2d695179c572bb84895f65e22296b49520c799621e7d326968b21f6ecec68"
+  },
+  {
+    "name": "system_LineageNpc2.u.zip",
+    "path": "system\\LineageNpc2.u",
+    "hash": "f2774ba91af1916143d8c2172ea6e1bfc44eceea94281ff40fa2148762e7fedb"
+  },
+  {
+    "name": "system_LineageNpcEv.u.zip",
+    "path": "system\\LineageNpcEv.u",
+    "hash": "263c8ca5654729b579481e8f4d3f9b1425a56a1775e7a2b8e037076bd28358a0"
+  },
+  {
+    "name": "system_LineageVehicle.u.zip",
+    "path": "system\\LineageVehicle.u",
+    "hash": "026fa75895a5874e0c278150b1dfa075b6e9ffcc8e1deb123f3916933629cd25"
+  },
+  {
+    "name": "system_lineagewarrior.int.zip",
+    "path": "system\\lineagewarrior.int",
+    "hash": "956dd8c3f71c9b08d1819e3a97d8a22385ab56a9abebbad5b9a54c81a07519e9"
+  },
+  {
+    "name": "system_LineageWarrior.u.zip",
+    "path": "system\\LineageWarrior.u",
+    "hash": "ec77f15c6c9d1d7f6bfa1df616754ea4905ce0353ea29cb14ba4ba4758862c03"
+  },
+  {
+    "name": "system_Localization.ini.zip",
+    "path": "system\\Localization.ini",
+    "hash": "19ddf6d5a6b76a18c6bb0797cbec5718464a7447faba49c50e52db96fd3d383f"
+  },
+  {
+    "name": "system_logongrp.dat.zip",
+    "path": "system\\logongrp.dat",
+    "hash": "2ca41a353bd99468b7b763769713a1f0772c0db53b3925c055a324e4fb91b3bd"
+  },
+  {
+    "name": "system_MobSkillAnimgrp.dat.zip",
+    "path": "system\\MobSkillAnimgrp.dat",
+    "hash": "1780e88cbaea266929fcb930e6837403f2c2f6705d5378424a9e22ea5433b1d1"
+  },
+  {
+    "name": "system_msxml4.dll.zip",
+    "path": "system\\msxml4.dll",
+    "hash": "b5a1549b3cb0b42e8853a352c2edb51569b45a27db0d00320e3b0ab1f3075a35"
+  },
+  {
+    "name": "system_msxml4a.dll.zip",
+    "path": "system\\msxml4a.dll",
+    "hash": "3e585ea7db64b28c6caa4843e937fddecd91d7371243526cf75c7e43f83061b8"
+  },
+  {
+    "name": "system_msxml4r.dll.zip",
+    "path": "system\\msxml4r.dll",
+    "hash": "f12450c33d7df194335e6a641e144636c88396be4b1397a26f5cf55a1c779a28"
+  },
+  {
+    "name": "system_musicinfo.dat.zip",
+    "path": "system\\musicinfo.dat",
+    "hash": "a9862e8a6ea53b4462eb6d7f2ee88bd25c119d2d9c9a49558780d8cfae0c9665"
+  },
+  {
+    "name": "system_Npcgrp.dat.zip",
+    "path": "system\\Npcgrp.dat",
+    "hash": "1f67e492ce6557bb499bc38610edff04c0c8bf8bb66036d49011a0c508ff98b3"
+  },
+  {
+    "name": "system_NpcName-e.dat.zip",
+    "path": "system\\NpcName-e.dat",
+    "hash": "b333317101d101da730b3ac15c7577c6fb1d88d9b26b0b63074556a17621f15e"
+  },
+  {
+    "name": "system_npkcrypt.dll.zip",
+    "path": "system\\npkcrypt.dll",
+    "hash": "29e974383e08c2421da526311061324dc5694bc2a9d229815995344144ec9df9"
+  },
+  {
+    "name": "system_npkcrypt.sys.zip",
+    "path": "system\\npkcrypt.sys",
+    "hash": "1eafd9e6a27496fd2f5408401f6bfb7f4621cc4f8c4a9f3e454f6f04937fc31e"
+  },
+  {
+    "name": "system_npkcrypt.vxd.zip",
+    "path": "system\\npkcrypt.vxd",
+    "hash": "6bb43a34404649eb484bfcf934900bfc20ecb9b6c35e0bf417d6bfadad1feee7"
+  },
+  {
+    "name": "system_npkcusb.sys.zip",
+    "path": "system\\npkcusb.sys",
+    "hash": "79d8777e8eee04336812c87fbb348ff3ee049c98eedd817732adcc0e916874c0"
+  },
+  {
+    "name": "system_npkpdb.dll.zip",
+    "path": "system\\npkpdb.dll",
+    "hash": "268db9444901d5523b30307e3977ac872441874501fe1101bb0727d9f6dbd5b9"
+  },
+  {
+    "name": "system_NWindow.dll.zip",
+    "path": "system\\NWindow.dll",
+    "hash": "ecd72e86bb317bf44f46482f5286f0f654f9c2119a4df8263203a3162677f52e"
+  },
+  {
+    "name": "system_NWindow.u.zip",
+    "path": "system\\NWindow.u",
+    "hash": "0fe902a5f88d31eb1a16dcf1ee2cf5da4cc051a424b9ec3684617fba670069d4"
+  },
+  {
+    "name": "system_obscene-e.dat.zip",
+    "path": "system\\obscene-e.dat",
+    "hash": "baac27103f04b88a18f1471e79804e2f392461956c64770fbc88edeae6e32811"
+  },
+  {
+    "name": "system_ogg.dll.zip",
+    "path": "system\\ogg.dll",
+    "hash": "bf8e5d229d00d4fe52be0c67739a5888bc32d478911dd3ae1c4e3523c9442df7"
+  },
+  {
+    "name": "system_openal32.dll.zip",
+    "path": "system\\openal32.dll",
+    "hash": "8854a9e9f3453ad204db7970b0e20469eab6187905c871be1a6ac8fad9a04973"
+  },
+  {
+    "name": "system_Option.ini.zip",
+    "path": "system\\Option.ini",
+    "hash": "eca674908dbcdeba6f5cf85a3640e50c1c86241759968610abf229f383812be0"
+  },
+  {
+    "name": "system_optiondata_client-e.dat.zip",
+    "path": "system\\optiondata_client-e.dat",
+    "hash": "cacd3ef040834a1abc8c0621afb7d035aa7ae1b8db8554e82d29eb503e28c744"
+  },
+  {
+    "name": "system_questname-e.dat.zip",
+    "path": "system\\questname-e.dat",
+    "hash": "97159c95cd3e737a67399447e8f22e14a5b3616ab98e58f4cfa27019dc45e041"
+  },
+  {
+    "name": "system_raiddata-e.dat.zip",
+    "path": "system\\raiddata-e.dat",
+    "hash": "9a6b7ad4a1b5eaafcd630a621340e44a2105a0804623f7d937f6514eb0d82a8f"
+  },
+  {
+    "name": "system_recipe-c.dat.zip",
+    "path": "system\\recipe-c.dat",
+    "hash": "b7988b07468e7b4bfcde2e2c3e242e0e91f954ecfe495b7395a76efce7215d07"
+  },
+  {
+    "name": "system_servername-e.dat.zip",
+    "path": "system\\servername-e.dat",
+    "hash": "0a13aeb83b92d1d5c3ab03c47843b56e031d6c1ad46c9489ed706d07ab9b29b6"
+  },
+  {
+    "name": "system_skillgrp.dat.zip",
+    "path": "system\\skillgrp.dat",
+    "hash": "6a39e77cd926158a59f0cc74bf8ab5d0473f560671c30c3cb4ed1e1737944d26"
+  },
+  {
+    "name": "system_skillname-e.dat.zip",
+    "path": "system\\skillname-e.dat",
+    "hash": "24abdac1f4a542488b094ad474a5a12f3490bf1185aa12661e8d48bfd82da480"
+  },
+  {
+    "name": "system_skillsoundgrp.dat.zip",
+    "path": "system\\skillsoundgrp.dat",
+    "hash": "ee182f83206a76a7cbd27a78cbd3f98aa442d2fac9df979f14946a53e7271729"
+  },
+  {
+    "name": "system_smallfont-e.gly.zip",
+    "path": "system\\smallfont-e.gly",
+    "hash": "c55cf82cf3dcec1b8ac22e9659a9274afd4f3fb61480666ff9c614bf649e0349"
+  },
+  {
+    "name": "system_smallfont.gly.zip",
+    "path": "system\\smallfont.gly",
+    "hash": "86c08f01c66e7d7e12f89d5d72aa89738683ee41035bcf3fed0247397331355b"
+  },
+  {
+    "name": "system_soulshot.int.zip",
+    "path": "system\\soulshot.int",
+    "hash": "3a4f31f28b5229b2e31b93c0b2a71d759fb460287003634e50335fe3a2f909b3"
+  },
+  {
+    "name": "system_staticobject-e.dat.zip",
+    "path": "system\\staticobject-e.dat",
+    "hash": "bafe6b29710af87a00825cf6229c18999bc6aab2266ed8aea8c3f5cd48d7eca9"
+  },
+  {
+    "name": "system_symbolname-e.dat.zip",
+    "path": "system\\symbolname-e.dat",
+    "hash": "8b494bfbbdab9c5186ee718d1963b80c0d8e3814a5c59ff151acf5d3a0c599d3"
+  },
+  {
+    "name": "system_sysstring-e.dat.zip",
+    "path": "system\\sysstring-e.dat",
+    "hash": "9f6554842fb922a0282600dbe39e9a95332f38babc69b0e43dfdc3b1ca30039f"
+  },
+  {
+    "name": "system_systemmsg-e.dat.zip",
+    "path": "system\\systemmsg-e.dat",
+    "hash": "3dc93d692e8387d2742d30d235735ae7fb592c582de608539b2d4b3dcb84c31a"
+  },
+  {
+    "name": "system_timeenv0.int.zip",
+    "path": "system\\timeenv0.int",
+    "hash": "a941e0df5eba0ac80278da7c012196e7c54e2f98d3dcf243235fdb5f5251bba2"
+  },
+  {
+    "name": "system_timeenv1.int.zip",
+    "path": "system\\timeenv1.int",
+    "hash": "ae577f870ea44b11a375f8c8f53b520e160d887522da0a609d42de69d119c6b1"
+  },
+  {
+    "name": "system_timeenv2.int.zip",
+    "path": "system\\timeenv2.int",
+    "hash": "47ab561bb8e96c2a0b57bc81834505228c8f0956c230f1bfc31715575920506f"
+  },
+  {
+    "name": "system_timeenv3.int.zip",
+    "path": "system\\timeenv3.int",
+    "hash": "7209f1c7d0994bf98167c05a2455caf23d686452eff08d4be5e0b938a02d0fd6"
+  },
+  {
+    "name": "system_TTFontInfo.ini.zip",
+    "path": "system\\TTFontInfo.ini",
+    "hash": "e084f9f0f7f1ffa79e0d6ef355bee4c3dc929c44a9601cdbcac45c662ca9e5ad"
+  },
+  {
+    "name": "system_UDebugMenu.u.zip",
+    "path": "system\\UDebugMenu.u",
+    "hash": "907e604ce94a367aba6f26fc5ca96856dcab1f007d60944086df70586e6503c1"
+  },
+  {
+    "name": "system_user.ini.zip",
+    "path": "system\\user.ini",
+    "hash": "e03607fc09e8bc3db79f783dbbe4f46b57ad81663b4a1c851a0c98ad77071ee8"
+  },
+  {
+    "name": "system_UWindow.u.zip",
+    "path": "system\\UWindow.u",
+    "hash": "0f824187696e6985404df7f7952abb5530f71fdbc46bb7e4eb5e4dbda7dc3b05"
+  },
+  {
+    "name": "system_variationeffectgrp-e.dat.zip",
+    "path": "system\\variationeffectgrp-e.dat",
+    "hash": "2ff9b1acc99ec5dcf4a2b866785aeb0ec7f3a57cd28a585f2ac8883b31cd1410"
+  },
+  {
+    "name": "system_vorbis.dll.zip",
+    "path": "system\\vorbis.dll",
+    "hash": "74ca3a80ab4d656971fe86c7d24fcfb18906318644736948fb2bf97cb17c08ed"
+  },
+  {
+    "name": "system_vorbisfile.dll.zip",
+    "path": "system\\vorbisfile.dll",
+    "hash": "cd1380e96a645f08995f1f4196090ed7161fa51bbefdad29d5d5bfa0dcab39ee"
+  },
+  {
+    "name": "system_weapongrp.dat.zip",
+    "path": "system\\weapongrp.dat",
+    "hash": "61dd5f5eaacc331288867b3353f666ee9037c55ab995bf8cd9f6a1e382a19e91"
+  },
+  {
+    "name": "system_wform.bm.zip",
+    "path": "system\\wform.bm",
+    "hash": "782ebb6df47d7673184874227479b0c2435304b825091a5624ef249bc6085d5b"
+  },
+  {
+    "name": "system_Window.dll.zip",
+    "path": "system\\Window.dll",
+    "hash": "d582467e58a287ef3726ab1164d5dd58c6d25628f928c594015c149b167ec6fa"
+  },
+  {
+    "name": "system_window.int.zip",
+    "path": "system\\window.int",
+    "hash": "59f18677b8a936055d9d0fd25777094ebd7826d71b867027e5b998dd30016101"
+  },
+  {
+    "name": "system_WindowsInfo.ini.zip",
+    "path": "system\\WindowsInfo.ini",
+    "hash": "2bc12222d5675a564772bf3adf6561ce4d79fe0c87ddb9ed612b0673dd7e5196"
+  },
+  {
+    "name": "system_WinDrv.dll.zip",
+    "path": "system\\WinDrv.dll",
+    "hash": "56e9e9dc14cf716cedc2120c8edb19c829a82ef0b603b0a66ac28f6e2cc6bc92"
+  },
+  {
+    "name": "system_windrv.int.zip",
+    "path": "system\\windrv.int",
+    "hash": "a81abc1939a10e3b23ab9c93cd1723fe5e4fc457839f201a1ac182cdb2e68621"
+  },
+  {
+    "name": "system_wrap_oal.dll.zip",
+    "path": "system\\wrap_oal.dll",
+    "hash": "262125916e5d3b0b1d0dc0e9eb8c3344c419e628d47810c34aae122328f7638a"
+  },
+  {
+    "name": "system_ZoneName-e.dat.zip",
+    "path": "system\\ZoneName-e.dat",
+    "hash": "88a3b87a59e3374ebf3c978a8498bdbcf138a1a35d417137b081c68e8391afcb"
+  }
+]
